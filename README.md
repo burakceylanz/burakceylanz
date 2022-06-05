@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @burakceylanz
 - 👀 I'm interested in Frontend technologies 
-- 🌱 I’m currently learning React and more Javascript framework
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me burakbayarceylan@gmail.com
 - 📫 Linkedin: https://www.linkedin.com/in/burak-ceylan-0b04921a9/
